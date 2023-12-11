@@ -16,10 +16,10 @@ birthday represents person birthday as integer value
 
 # birthDate
 
-birthDate represents person age as dateTime value
+birthDate represents person age as integer value
 
 ```
-  "birthDate": "2361-03-21T19:14:48.000Z"
+  "birthDate": 19941221
 ```
 
 
